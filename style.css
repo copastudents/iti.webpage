@@ -578,6 +578,16 @@ main {
 
         a{
             font-size: 1.5rem;
+            transition: transform .2s ease-in-out;
+
+            img{
+                border-radius: 5px;
+            }
+        }
+
+
+        a:hover{
+            transform: scale(1.05) translateY(-1px);
         }
 
     }
