@@ -35,7 +35,6 @@ main {
     align-items: center;
     gap: 20px;
     background: linear-gradient(to right, #eed89b, rgb(121, 238, 121), #a8acf7);
-    /* background-color: rgb(171, 242, 165); */
     border-radius: 10px;
     transition: box-shadow 0.5s ease, transform 0.7s ease;
     -webkit-user-select: none;
