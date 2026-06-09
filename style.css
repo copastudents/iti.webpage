@@ -456,6 +456,7 @@ main {
                 text-decoration: none;
                 color: rgb(1, 9, 86);
                 font-size: 1rem;
+                line-height: 1.5rem;
 
             }
         }
@@ -536,6 +537,8 @@ main {
                 text-decoration: none;
                 color: rgb(1, 9, 86);
                 font: size 1rem;
+                line-height: 1.5rem;
+
             }
         }
     }
